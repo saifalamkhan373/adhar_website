@@ -1,0 +1,49 @@
+/* button */
+.btn_1{
+  background-color:white;
+  border:3px solid teal;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  width: 45%;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 0.4rem 1.2rem;
+  color: gray;
+  font-weight: 500;
+  /* width:150px; */
+}
+
+.btn_1:hover {
+  text-decoration: none;
+  background-color: teal;
+  color: white;
+}
+
+/* <!-- reason scroll down --> */
+.myDropDown{
+
+  /* max-height: 60px; */
+  overflow-y: scroll;
+  }
+
+  .save-btn {
+    background-color: teal; 
+    color: white; 
+    display: block; 
+    margin: auto; 
+    text-align: center; 
+    width: 80%; 
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0.4rem 1.2rem;
+    border-radius: 5px;
+    font-weight: 500;
+  }
+
+  .save-btn:hover {
+    text-decoration: none;
+    color: white;
+  }
